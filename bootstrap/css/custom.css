@@ -1,0 +1,28 @@
+header{
+	padding-bottom: 5px;
+	font-family:  Comic Sans MS;
+}
+
+
+.topholder{
+	background-color: black;
+	height: 1em;
+}
+
+.main_content{
+	padding: 4em 4em 0 4em;
+}
+
+.center{
+	text-align: center;
+}
+
+
+.direct{
+	padding-bottom: 10px;
+}
+
+.main_img {
+	padding-top: 4em;
+	padding-bottom: 4em;
+}
